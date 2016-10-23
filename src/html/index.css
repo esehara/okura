@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    border-width: 1px;
+    margin: 6px;
+    border: solid 1px #476B55;
+    list-style-type: none;
+}
+
+h2 {
+    color: #FFFFFF;
+    margin: 0px;
+    padding: 6px;
+    background-color: #476B55;
+}
+
+p {
+    padding: 6px;
+}
+
+h1 {
+    margin: 0px;
+    padding: 8px;
+    color: #FFFFFF;
+    background-color: #5B4F3D;
+}
